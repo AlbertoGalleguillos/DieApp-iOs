@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>909156958193-no18k5v81rd8c97elrckfu6bsoe1b1co.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.909156958193-no18k5v81rd8c97elrckfu6bsoe1b1co</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZQG3sQgD2OEBeBfcNk3uaETC7ShXptkA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>909156958193</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cl.marcer.Die-App</string>
+	<key>PROJECT_ID</key>
+	<string>die-usach</string>
+	<key>STORAGE_BUCKET</key>
+	<string>die-usach.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:909156958193:ios:ba1b75396a7d9656</string>
+	<key>DATABASE_URL</key>
+	<string>https://die-usach.firebaseio.com</string>
+</dict>
+</plist>
